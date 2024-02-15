@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Gastón👋</h1>
 </div>
-
+<img src="https://res.cloudinary.com/dpbr1u8z5/image/upload/v1708005484/Gast%C3%B3n_Ariel_Rabinovich_wsv2dm.png">
 <!--
 **GRabinovich/GRabinovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

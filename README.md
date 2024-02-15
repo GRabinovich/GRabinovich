@@ -13,6 +13,9 @@
 ## Mis conocimientos
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(35px, 1fr)); gap: 5px;">
-<img src="https://svgl.vercel.app/library/html5.svg" width="35">
-<p>HTML</p>
+  <div style="display: flex; flex-direction: column; justify-content: center;">
+    <img src="https://svgl.vercel.app/library/html5.svg" width="35">
+    <p>HTML</p>
+  </div>
+
 </div>

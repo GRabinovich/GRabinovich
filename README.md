@@ -17,5 +17,13 @@
     <img src="https://svgl.vercel.app/library/html5.svg" width="35">
     <p>HTML</p>
   </div>
+  <div style="display: flex; flex-direction: column; justify-content: center;">
+    <img src="https://svgl.vercel.app/library/html5.svg" width="35">
+    <p>HTML</p>
+  </div>
+  <div style="display: flex; flex-direction: column; justify-content: center;">
+    <img src="https://svgl.vercel.app/library/html5.svg" width="35">
+    <p>HTML</p>
+  </div>
 
 </div>

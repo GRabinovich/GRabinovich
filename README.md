@@ -14,4 +14,5 @@
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(35px, 1fr)); gap: 5px;">
 <img src="https://svgl.vercel.app/library/html5.svg" width="35">
+<p>HTML</p>
 </div>

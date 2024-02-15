@@ -42,3 +42,14 @@
   <img src="https://svgl.vercel.app/library/github.svg" width="50" height="50" title="Github">&nbsp&nbsp
   <img src="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png" width="50" height="50" title="TypeScript">&nbsp&nbsp
 </div>
+<br>
+
+## GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/GRabinovich">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GRabinovich&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GRabinovich&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+

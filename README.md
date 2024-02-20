@@ -25,6 +25,7 @@
   ![Sequelize](https://img.shields.io/badge/Sequelize-03AFEF?style=for-the-badge&logo=sequelize&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-01EC64?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+  ![JWT](https://img.shields.io/badge/JWT-D63AFF?style=for-the-badge&logo=json%20web%20tokens&logoColor=white)
   ![React](https://img.shields.io/badge/React-00D8FF?style=for-the-badge&logo=react&logoColor=white)
   ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
   ![Vite.js](https://img.shields.io/badge/Vite.js-B043FE?style=for-the-badge&logo=vite&logoColor=white)

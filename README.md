@@ -33,7 +33,7 @@
   ![Sass](https://img.shields.io/badge/Sass-CF649A?style=for-the-badge&logo=sass&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7E13F8?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![Radix UI](https://img.shields.io/badge/Radix%20UI-black?style=for-the-badge&logo=radix%20ui&logoColor=white)
-  ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=material%20UI&logoColor=white)
+  ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-18B7B9?style=for-the-badge&logo=tailwind%20css&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-008FE2?style=for-the-badge&logo=docker&logoColor=white)
   ![Jest](https://img.shields.io/badge/jest-99425B?style=for-the-badge&logo=Jest&logoColor=white)

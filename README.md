@@ -13,34 +13,37 @@
 ## Mis conocimientos
 <br>
 <div align="center" style="display: flex;">
-  <img src="https://svgl.vercel.app/library/html5.svg" width="50" height="50" title="HTML5">&nbsp&nbsp
-  <img src="https://svgl.vercel.app/library/css.svg" width="50" height="50" title="CSS">&nbsp&nbsp
-  <img src="https://svgl.vercel.app/library/javascript.svg" width="50" height="50" title="JavaScript">&nbsp&nbsp
-  <img src="https://svgl.vercel.app/library/typescript.svg" width="50" height="50" title="TypeScript">&nbsp&nbsp
-  <img src="https://svgl.vercel.app/library/nodejs.svg" width="50" height="50" title="Node.js">&nbsp&nbsp
-  <img src="https://svgl.vercel.app/library/expressjs_dark.svg" width="50" height="50" title="Express">&nbsp&nbsp
-  <img src="https://svgl.vercel.app/library/nestjs.svg" width="50" height="50" title="Nest.js">&nbsp&nbsp
-  <img src="https://svgl.vercel.app/library/postgresql.svg" width="50" height="50" title="PostgreSQL">&nbsp&nbsp
-  <br>
-  <br>
-  <img src="https://svgl.vercel.app/library/sequelize.svg" width="50" height="50" title="Sequelize">&nbsp&nbsp
-  <img src="https://svgl.vercel.app/library/mongodb.svg" width="50" height="50" title="MongoDB">&nbsp&nbsp
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" width="50" height="50" title="Mongoose">&nbsp&nbsp
-  <img src="https://svgl.vercel.app/library/react.svg" width="50" height="50" title="React">&nbsp&nbsp
-  <img src="https://svgl.vercel.app/library/nextjs.svg" width="50" height="50" title="Next.js">&nbsp&nbsp
-  <img src="https://svgl.vercel.app/library/vitejs.svg" width="50" height="50" title="Vite.js">&nbsp&nbsp
-  <img src="https://svgl.vercel.app/library/redux.svg" width="50" height="50" title="Redux">&nbsp&nbsp
-  <img src="https://svgl.vercel.app/library/sass.svg" width="50" height="50" title="Sass">&nbsp&nbsp
-  <br>
-  <br>
-  <img src="https://svgl.vercel.app/library/bootstrap.svg" width="50" height="50" title="Bootstrap">&nbsp&nbsp
-  <img src="https://svgl.vercel.app/library/radix-ui_dark.svg" width="50" height="50" title="Radix UI">&nbsp&nbsp
-  <img src="https://svgl.vercel.app/library/materialui.svg" width="50" height="50" title="Material UI">&nbsp&nbsp
-  <img src="https://svgl.vercel.app/library/tailwindcss.svg" width="50" height="50" title="Tailwind CSS">&nbsp&nbsp
-  <img src="https://svgl.vercel.app/library/docker.svg" width="50" height="50" title="Docker">&nbsp&nbsp
-  <img src="https://svgl.vercel.app/library/jest.svg" width="50" height="50" title="Jest">&nbsp&nbsp
-  <img src="https://svgl.vercel.app/library/github.svg" width="50" height="50" title="Github">&nbsp&nbsp
-  <img src="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png" width="50" height="50" title="TypeScript">&nbsp&nbsp
+  
+  ![HTML](https://img.shields.io/badge/HTML-EF652A?style=for-the-badge&logo=HTML5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-0C73B8?style=for-the-badge&logo=CSS3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-539E43?style=for-the-badge&logo=Node.js&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express&logoColor=white)
+  ![Nestjs](https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Sequelize](https://img.shields.io/badge/Sequelize-03AFEF?style=for-the-badge&logo=sequelize&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-01EC64?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+  ![React](https://img.shields.io/badge/React-00D8FF?style=for-the-badge&logo=react&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Vite.js](https://img.shields.io/badge/Vite.js-B043FE?style=for-the-badge&logo=vite&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+  ![Sass](https://img.shields.io/badge/Sass-CF649A?style=for-the-badge&logo=sass&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7E13F8?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Radix UI](https://img.shields.io/badge/Radix%20UI-black?style=for-the-badge&logo=radix%20ui&logoColor=white)
+  ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=material%20UI&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-18B7B9?style=for-the-badge&logo=tailwind%20css&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-008FE2?style=for-the-badge&logo=docker&logoColor=white)
+  ![Jest](https://img.shields.io/badge/jest-99425B?style=for-the-badge&logo=Jest&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-DE4C36?style=for-the-badge&logo=Git&logoColor=white)
+  ![Github](https://img.shields.io/badge/github-545454?style=for-the-badge&logo=Github&logoColor=white)
+  ![Github Actions](https://img.shields.io/badge/github%20actions-1F84F7?style=for-the-badge&logo=Github%20actions&logoColor=white)
+  ![Cloudinary](https://img.shields.io/badge/cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
+  ![Render](https://img.shields.io/badge/render-black?style=for-the-badge&logo=render&logoColor=white)
+  ![AWS](https://img.shields.io/badge/Amazon%20web%20services-FF9900?style=for-the-badge&logoColor=white)
+  
 </div>
 <br>
 

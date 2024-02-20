@@ -43,7 +43,7 @@
   ![Cloudinary](https://img.shields.io/badge/cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
   ![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
   ![Render](https://img.shields.io/badge/render-black?style=for-the-badge&logo=render&logoColor=white)
-  ![AWS](https://img.shields.io/badge/Amazon%20web%20services-FF9900?style=for-the-badge&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon%20aws&logoColor=white)
   
 </div>
 <br>
